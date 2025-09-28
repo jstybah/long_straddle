@@ -14,3 +14,5 @@ bars.to_parquet("data/underlying_bars.parquet")
 
 # Display the first few rows
 print(bars.columns)
+#hi
+
